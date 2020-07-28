@@ -1,3 +1,5 @@
+![CI build](https://github.com/MappedIn/contact-monitoring-dashboard/workflows/CI/badge.svg)
+
 # Contact Monitoring Dashboard
 
 1. [Setup](#Setup)
