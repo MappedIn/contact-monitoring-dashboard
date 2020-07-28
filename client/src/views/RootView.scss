@@ -1,0 +1,18 @@
+.root-container {
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 0;
+}
+
+.content {
+	overflow: auto;
+	padding-top: 24px;
+	padding-left: 24px;
+}
+
+.content-breadcrumbs {
+	width: 100%;
+	height: 54px;
+	line-height: 54px;
+}

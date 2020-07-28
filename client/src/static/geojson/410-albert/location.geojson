@@ -1,0 +1,2137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b196e3b97e366793c000007",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000010",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Hongwei Liu",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b196e7297e366793c000008",
+                "spaces": [
+                    {
+                        "id": "5e41d6752a26867f0e000000",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Ed Wei",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b196ec397e366793c00000a",
+                "spaces": [
+                    {
+                        "id": "5cdefae73b1a69493600002b",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5bd092bc2a2686384f000001"
+                ],
+                "name": "Brad Harris",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.png",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjY0eDY0.png",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjE0MHgxNDA.png",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjIwNDh4MjA0OA.png",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjY2eDY2.png",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjEyOHgxMjg.png",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjEwMjR4MTAyNA.png",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjUxMng1MTI.png",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjI1NngyNTY.png",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/09ffe59ade90ab6b04a89af6c7712f08fdf8b22b.PjQwOTZ4NDA5Ng.png"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b196fbe97e366793c00000c",
+                "spaces": [
+                    {
+                        "id": "5d9759102fcdd8270e000003",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "James Swidersky",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b19741b97e366793c000032",
+                "spaces": [
+                    {
+                        "id": "5d9755862fcdd87d6a00000a",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b89920d4fb0af1085000000"
+                ],
+                "name": "Jim Zhang",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1985a497e366793c000034",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000056",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Zoran Slamkov",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b19878197e366793c00003a",
+                "spaces": [
+                    {
+                        "id": "5b19707e97e366793c00000e",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Nick Jessop",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1988e997e366793c00003d",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200004a",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Sarah Knight",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198a5c97e366793c000041",
+                "spaces": [
+                    {
+                        "id": "5d9759282fcdd8270e000014",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b8993bde99a3366b9000000"
+                ],
+                "name": "Paul Bernhardt",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/7043c8c615feb6d86d6896ac1f233649ba3359f5.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjE0MHgxNDA.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjIwNDh4MjA0OA.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjY2eDY2.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjQwOTZ4NDA5Ng.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjY0eDY0.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjUxMng1MTI.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjI1NngyNTY.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjEyOHgxMjg.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/7043c8c615feb6d86d6896ac1f233649ba3359f5.PjEwMjR4MTAyNA.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198a8697e366793c000042",
+                "spaces": [
+                    {
+                        "id": "5d9756a92fcdd87d6a000033",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b8993bde99a3366b9000000"
+                ],
+                "name": "Christine Maiolo",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198acd97e366793c000044",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000061",
+                        "map": "5aba4ccf0042d53209000000"
+                    },
+                    {
+                        "id": "5cdefae73b1a694936000045",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Philip Pham",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198aed97e366793c000046",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200005f",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Mathew Joseph",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198b0e97e366793c000048",
+                "spaces": [
+                    {
+                        "id": "5c87b389e90e1a173e000011",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Ian Rutherford",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198b2d97e366793c000049",
+                "spaces": [
+                    {
+                        "id": "5e41b3b32a26867754000470",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Liam Crampsey",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198bc297e366793c00004c",
+                "spaces": [
+                    {
+                        "id": "5cdefae73b1a69493600002e",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Peter Yan",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198c3997e366793c00004e",
+                "spaces": [
+                    {
+                        "id": "5cdefae73b1a694936000046",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b8993bde99a3366b9000000"
+                ],
+                "name": "Phill Hood",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/e1390843230bee8fa62d932743509d47a4cf3eb2.png",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjEyOHgxMjg.png",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjI1NngyNTY.png",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjY2eDY2.png",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjIwNDh4MjA0OA.png",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjEwMjR4MTAyNA.png",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjY0eDY0.png",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjQwOTZ4NDA5Ng.png",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjE0MHgxNDA.png",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/e1390843230bee8fa62d932743509d47a4cf3eb2.PjUxMng1MTI.png"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198c5f97e366793c00004f",
+                "spaces": [
+                    {
+                        "id": "5cdefcca3b1a69493600005b",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b89920d4fb0af1085000000"
+                ],
+                "name": "Anzor Bashkhaz",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/4631fa39cac60954e3306d82007c9f0ac1809207.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjE0MHgxNDA.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjEwMjR4MTAyNA.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjUxMng1MTI.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjIwNDh4MjA0OA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjEyOHgxMjg.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjI1NngyNTY.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjY2eDY2.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjQwOTZ4NDA5Ng.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/4631fa39cac60954e3306d82007c9f0ac1809207.PjY0eDY0.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198e5797e366793c000055",
+                "spaces": [
+                    {
+                        "id": "5d9755ee2fcdd87d6a000015",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b89920d4fb0af1085000000"
+                ],
+                "name": "Joe Cardwell",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198f9197e366793c00005a",
+                "spaces": [
+                    {
+                        "id": "5b19707e97e366793c00000f",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Cara Hueston",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjY2eDY2.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjEyOHgxMjg.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjI1NngyNTY.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjUxMng1MTI.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjIwNDh4MjA0OA.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjE0MHgxNDA.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjY0eDY0.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjEwMjR4MTAyNA.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/ae0ccbecad7595f43978eb609c3b0ff7d0da39c7.PjQwOTZ4NDA5Ng.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b198fa497e366793c00005b",
+                "spaces": [
+                    {
+                        "id": "5e41b3b32a2686775400046e",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Genny Orser",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a7fd897e366793c000079",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000009",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Drop-in Meeting Room 1",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a7ff197e366793c00007a",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200000a",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Drop-in Meeting Room 2",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a800497e366793c00007b",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200000d",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Drop-in Meeting Room 3",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a803797e366793c00007c",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200000e",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Drop-in Meeting Room 4",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a811d97e366793c00007d",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200000f",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Drop-in Meeting Room 5",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a813297e366793c00007e",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000010",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Drop-in Meeting Room 6",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a814f97e366793c00007f",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000014",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Tomlinson",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjEwMjR4MTAyNA.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjIwNDh4MjA0OA.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjQwOTZ4NDA5Ng.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjUxMng1MTI.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjEyOHgxMjg.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjY0eDY0.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjE0MHgxNDA.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjY2eDY2.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjI1NngyNTY.jpeg"
+                },
+                "picture": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.jpeg",
+                    "640x320": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjY0MHgzMjA.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjIwNDh4MjA0OA.jpeg",
+                    "640x300": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjY0MHgzMDA.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjQwOTZ4NDA5Ng.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjEwMjR4MTAyNA.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjY0eDY0.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjUxMng1MTI.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjEyOHgxMjg.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/ad1cdc234d795d8c6899ac93cb86dc5a8df80040.PjI1NngyNTY.jpeg"
+                },
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a817c97e366793c000080",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000008",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Da Vinci",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjI1NngyNTY.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjQwOTZ4NDA5Ng.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjEyOHgxMjg.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjIwNDh4MjA0OA.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjE0MHgxNDA.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjY0eDY0.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjEwMjR4MTAyNA.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjUxMng1MTI.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjY2eDY2.jpeg"
+                },
+                "picture": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjEwMjR4MTAyNA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjEyOHgxMjg.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjIwNDh4MjA0OA.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjQwOTZ4NDA5Ng.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjI1NngyNTY.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjUxMng1MTI.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjY0eDY0.jpeg",
+                    "640x300": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjY0MHgzMDA.jpeg",
+                    "640x320": "https://d3j72de684fey1.cloudfront.net/resized/ab03dfd0fc8186ea31a4ee2cf7af865d3e3ae0de.PjY0MHgzMjA.jpeg"
+                },
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a81db97e366793c000081",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000013",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Mercator",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjY2eDY2.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjE0MHgxNDA.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjY0eDY0.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjI1NngyNTY.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjQwOTZ4NDA5Ng.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjUxMng1MTI.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjEyOHgxMjg.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjEwMjR4MTAyNA.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjIwNDh4MjA0OA.jpeg"
+                },
+                "picture": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjIwNDh4MjA0OA.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjUxMng1MTI.jpeg",
+                    "640x300": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjY0MHgzMDA.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjI1NngyNTY.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjY0eDY0.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjEwMjR4MTAyNA.jpeg",
+                    "640x320": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjY0MHgzMjA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjEyOHgxMjg.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/2c21996a17af06bf43bbbbe19ca2f79edcd137b9.PjQwOTZ4NDA5Ng.jpeg"
+                },
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a81f097e366793c000082",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000012",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Ortelius",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/034c1449b70801b9bd1dbb56813e912fb80364f3.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjE0MHgxNDA.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjI1NngyNTY.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjQwOTZ4NDA5Ng.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjUxMng1MTI.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjY2eDY2.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjY0eDY0.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjEwMjR4MTAyNA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjEyOHgxMjg.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjIwNDh4MjA0OA.jpeg"
+                },
+                "picture": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/034c1449b70801b9bd1dbb56813e912fb80364f3.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjEyOHgxMjg.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjEwMjR4MTAyNA.jpeg",
+                    "640x300": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjY0MHgzMDA.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjI1NngyNTY.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjQwOTZ4NDA5Ng.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjUxMng1MTI.jpeg",
+                    "640x320": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjY0MHgzMjA.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjY0eDY0.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/034c1449b70801b9bd1dbb56813e912fb80364f3.PjIwNDh4MjA0OA.jpeg"
+                },
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a820697e366793c000083",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200000b",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Ptolemy",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/455ae12748e390d34116e3439273ac638e62de69.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjI1NngyNTY.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjY0eDY0.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjE0MHgxNDA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjEyOHgxMjg.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjY2eDY2.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjUxMng1MTI.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjEwMjR4MTAyNA.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjIwNDh4MjA0OA.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjQwOTZ4NDA5Ng.jpeg"
+                },
+                "picture": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/455ae12748e390d34116e3439273ac638e62de69.jpeg",
+                    "640x300": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjY0MHgzMDA.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjI1NngyNTY.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjEwMjR4MTAyNA.jpeg",
+                    "640x320": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjY0MHgzMjA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjEyOHgxMjg.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjQwOTZ4NDA5Ng.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjY0eDY0.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjIwNDh4MjA0OA.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/455ae12748e390d34116e3439273ac638e62de69.PjUxMng1MTI.jpeg"
+                },
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a821c97e366793c000084",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000011",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Massey",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a823397e366793c000085",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000018",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Games Lounge",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a82b997e366793c000086",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200001b",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Quiet Lounge",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a834697e366793c000087",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000070",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Quiet Lounge Kitchenette",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a835697e366793c000088",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200001a",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Kitchen",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a836f97e366793c000089",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000019",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Dining Area",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a837f97e366793c00008a",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000016",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Wellness Room",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a83cf97e366793c00008b",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000017",
+                        "map": "5aba4ccf0042d53209000000"
+                    },
+                    {
+                        "id": "5b183b8b97e36622e200007d",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Shower",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a83ed97e366793c00008c",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000015",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b899b032a2686126e000001"
+                ],
+                "name": "Interview Room",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a83fc97e366793c00008d",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200001c",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Closet",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a842d97e366793c000090",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200007e",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Printer",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a84ed97e366793c000091",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200000c",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Server Room",
+                "externalId": null,
+                "states": null,
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b9017f8e691251ff9000000",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000049",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Sam Lidstone",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5bc4a9a15033a051f6000000",
+                "spaces": [
+                    {
+                        "id": "5cdefae73b1a694936000034",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b8993bde99a3366b9000000"
+                ],
+                "name": "Christie Kennedy",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/32af36af7bf2705890d3ef11a46a5f8a9e360a35.png",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjQwOTZ4NDA5Ng.png",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjEyOHgxMjg.png",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjY0eDY0.png",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjIwNDh4MjA0OA.png",
+                    "640x320": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjY0MHgzMjA.png",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjI1NngyNTY.png",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjUxMng1MTI.png",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjEwMjR4MTAyNA.png",
+                    "640x300": "https://d3j72de684fey1.cloudfront.net/resized/32af36af7bf2705890d3ef11a46a5f8a9e360a35.PjY0MHgzMDA.png"
+                },
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5bf5ab4b7cbc0b1d93000000",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000053",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Michael Pasket",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5bf5dae07cbc0b1d93000001",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000055",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Blake Donaldson",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/38cc1b8b54d54273bfb2106765c46b7d026d25cc.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjEyOHgxMjg.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjE0MHgxNDA.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjI1NngyNTY.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjUxMng1MTI.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjY0eDY0.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjY2eDY2.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjQwOTZ4NDA5Ng.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjEwMjR4MTAyNA.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/38cc1b8b54d54273bfb2106765c46b7d026d25cc.PjIwNDh4MjA0OA.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5c87b4c8e90e1a173e000020",
+                "spaces": [
+                    {
+                        "id": "5e41b3b32a26867754000472",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Nayeli Galindo",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5c87b68ce90e1a173e000022",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000044",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Christian Crissien",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5c87e79de90e1a7c16000004",
+                "spaces": [
+                    {
+                        "id": "5cdefcca3b1a69493600005e",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b89920d4fb0af1085000000"
+                ],
+                "name": "Kade Robertson",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5c880019e90e1a7c16000040",
+                "spaces": [
+                    {
+                        "id": "5c87e91be90e1a7c1600001a",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Brian Houser",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/60863c6056d061b9f973a14ed82f52badca7b911.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjI1NngyNTY.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjY2eDY2.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjE0MHgxNDA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjEyOHgxMjg.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjQwOTZ4NDA5Ng.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjUxMng1MTI.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjIwNDh4MjA0OA.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjY0eDY0.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/60863c6056d061b9f973a14ed82f52badca7b911.PjEwMjR4MTAyNA.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5cdf102d3b1a6965a2000010",
+                "spaces": [
+                    {
+                        "id": "5cdefb153b1a694936000049",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Graham Hartnell",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5cdf11b53b1a6965a2000017",
+                "spaces": [
+                    {
+                        "id": "5cdefae73b1a69493600003b",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Avanti Krishnan",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/e5f78cbe778e6e3a1c074ded331d94866303680b.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjY0eDY0.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjE0MHgxNDA.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjI1NngyNTY.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjIwNDh4MjA0OA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjEyOHgxMjg.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjY2eDY2.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjUxMng1MTI.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjEwMjR4MTAyNA.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/e5f78cbe778e6e3a1c074ded331d94866303680b.PjQwOTZ4NDA5Ng.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5cdf13863b1a6965a200001b",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000060",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Brent Bieber",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/e4fb48035a36f265d6bf641f56369d14d9b511a6.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjEyOHgxMjg.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjE0MHgxNDA.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjY0eDY0.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjI1NngyNTY.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjUxMng1MTI.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjQwOTZ4NDA5Ng.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjEwMjR4MTAyNA.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjIwNDh4MjA0OA.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/e4fb48035a36f265d6bf641f56369d14d9b511a6.PjY2eDY2.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5ce3fb0d3b1a69004b000008",
+                "spaces": [
+                    {
+                        "id": "5c87e91be90e1a7c16000019",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Charles Dobson",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5d9dedbf2669c15cea000001",
+                "spaces": [
+                    {
+                        "id": "5cdefae73b1a69493600002c",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Roger Yen",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41c0019b02d924af000000",
+                "spaces": [
+                    {
+                        "id": "5cdefcca3b1a69493600005c",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [
+                    "5b89920d4fb0af1085000000"
+                ],
+                "name": "Ulkar Akhundzada",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41c8a82a268677540008ce",
+                "spaces": [
+                    {
+                        "id": "5cdefae73b1a694936000031",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Sean Lin",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41c9ae2a268677540008d0",
+                "spaces": [
+                    {
+                        "id": "5cdefb153b1a694936000048",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Daniel Vijayakumar",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41c9df2a268677540008d1",
+                "spaces": [
+                    {
+                        "id": "5d97564e2fcdd87d6a000029",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Alexander Varney",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/4d2ea16dcdf9a76617194230baee077076052af1.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjE0MHgxNDA.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjY2eDY2.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjUxMng1MTI.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjI1NngyNTY.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjEwMjR4MTAyNA.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjY0eDY0.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjQwOTZ4NDA5Ng.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjEyOHgxMjg.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/4d2ea16dcdf9a76617194230baee077076052af1.PjIwNDh4MjA0OA.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41c9ed2a268677540008d2",
+                "spaces": [
+                    {
+                        "id": "5cdefb153b1a694936000047",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Ben Liu",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjI1NngyNTY.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjY0eDY0.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjEwMjR4MTAyNA.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjEyOHgxMjg.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjY2eDY2.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjUxMng1MTI.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjE0MHgxNDA.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjIwNDh4MjA0OA.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/66ede1d4d4e3644c38a2389e1c39ca4ef4717389.PjQwOTZ4NDA5Ng.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41cc8f2a268677540008d6",
+                "spaces": [
+                    {
+                        "id": "5cdefcca3b1a69493600005d",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Eric Lauff",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41ccb22a268677540008d7",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200004f",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Steffanie Freeman",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41ccec2a268677540008d9",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000054",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Shane Lawrence",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41cd2a2a268677540008da",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000052",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Tomas Dousek",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41d0732a268677540008de",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e200004d",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Benjamin Etienne",
+                "externalId": null,
+                "states": [],
+                "logo": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/bcc5cde38300f380b1098d51d95dbb318eb4a636.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjY0eDY0.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjEyOHgxMjg.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjQwOTZ4NDA5Ng.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjUxMng1MTI.jpeg",
+                    "66x66": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjY2eDY2.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjIwNDh4MjA0OA.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjI1NngyNTY.jpeg",
+                    "140x140": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjE0MHgxNDA.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/bcc5cde38300f380b1098d51d95dbb318eb4a636.PjEwMjR4MTAyNA.jpeg"
+                },
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e41d0a12a268677540008df",
+                "spaces": [
+                    {
+                        "id": "5c87b389e90e1a173e000010",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "tenant",
+                "hours": null,
+                "categories": [],
+                "name": "Sarah Watts",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a841197e366793c00008e",
+                "spaces": [
+                    {
+                        "id": "5b18471897e36622e20002b0",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "amenity",
+                "hours": null,
+                "categories": [],
+                "name": "Washroom (Mens)",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b1a842197e366793c00008f",
+                "spaces": [
+                    {
+                        "id": "5b183b8b97e36622e2000030",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "amenity",
+                "hours": null,
+                "categories": [],
+                "name": "Washroom (Womens)",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5bdb035e2a26861612000003",
+                "spaces": [
+                    {
+                        "node": "5bdb02f92a26861612000002",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "amenity",
+                "hours": null,
+                "categories": [],
+                "name": "Emergency Meet Point",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5ce419763b1a69004b00001f",
+                "spaces": [
+                    {
+                        "id": "5cdf00483b1a6949360000fc",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "amenity",
+                "hours": null,
+                "categories": [],
+                "name": "Decorative Climbing Wall",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5ce419843b1a69004b000020",
+                "spaces": [
+                    {
+                        "id": "5cdf00483b1a6949360000fb",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "amenity",
+                "hours": null,
+                "categories": [],
+                "name": "Darts",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5ce4455d3b1a69004b000025",
+                "spaces": [
+                    {
+                        "id": "5ce444f83b1a69004b000022",
+                        "map": "5aba4ccf0042d53209000000"
+                    }
+                ],
+                "type": "amenity",
+                "hours": null,
+                "categories": [],
+                "name": "Standing Desks",
+                "externalId": null,
+                "states": [],
+                "logo": null,
+                "picture": null,
+                "address": null,
+                "phone": null,
+                "email": null,
+                "social": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+.topbar {
+	background: #ffffff;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	align-content: flex-start;
+	line-height: normal;
+	justify-content: flex-end;
+	padding: 0;
+
+	.sidebar-toggle {
+		padding: 0 24px;
+		color: #001529;
+		cursor: pointer;
+		transition: color 0.3s;
+		svg {
+			width: 18.75px;
+			height: 16.5px;
+		}
+	}
+
+	.sidebar-toggle:hover {
+		color: #1890ff;
+	}
+}

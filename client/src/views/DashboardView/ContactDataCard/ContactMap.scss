@@ -1,0 +1,17 @@
+.contact-map {
+	// Zero out antd card padding to allow map to fill the card
+	margin-left: -24px;
+	margin-right: -24px;
+	margin-bottom: -24px;
+
+	height: 619px;
+	padding-top: 8px;
+	position: relative;
+
+	.level-selector {
+		position: absolute;
+		top: 20px;
+		right: 20px;
+		width: 150px;
+	}
+}

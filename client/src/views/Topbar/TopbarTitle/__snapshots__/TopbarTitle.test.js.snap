@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopbarTitle renders defaults 1`] = `
+<a
+  className="topbar-title"
+  href="/"
+  style={
+    Object {
+      "color": "#ffffff",
+      "fill": "#ffffff",
+    }
+  }
+>
+  <span
+    className="topbar-title-logo-text-container"
+  >
+    <span
+      className="topbar-title-logo-container"
+    >
+      <svg
+        className="topbar-title-logo"
+        viewBox="0 0 116.8 185"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M109.1,56.6H89.3c-5,0-7.4,2.2-7.4,7v60.3l-40.3-62c-2.8-4.3-4.6-5.1-10.2-5.3H11.9c-5.2,0-7.6,2.2-7.6,7V178.1c0,4.8,2.4,7,7.6,7H31.7c5.2,0,7.6-2.2,7.6-7v-60l40.5,61.7c3,4.5,4.6,5.3,10.2,5.3h19.2c5.2,0,7.6-2.2,7.6-7V63.6C116.6,58.8,114.2,56.6,109.1,56.6Z"
+        />
+        <circle
+          cx="21.8"
+          cy="21.8"
+          r="21.8"
+        />
+      </svg>
+    </span>
+    <span
+      className="topbar-title-text"
+    />
+  </span>
+  <span
+    className="topbar-title-mode"
+  >
+    Development
+  </span>
+</a>
+`;
+
+exports[`TopbarTitle renders title, titleColor, and mode 1`] = `
+<a
+  className="topbar-title"
+  href="/"
+  style={
+    Object {
+      "color": "#ffffff",
+      "fill": "#ffffff",
+    }
+  }
+>
+  <span
+    className="topbar-title-logo-text-container"
+  >
+    <span
+      className="topbar-title-logo-container"
+    >
+      <svg
+        className="topbar-title-logo"
+        viewBox="0 0 116.8 185"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M109.1,56.6H89.3c-5,0-7.4,2.2-7.4,7v60.3l-40.3-62c-2.8-4.3-4.6-5.1-10.2-5.3H11.9c-5.2,0-7.6,2.2-7.6,7V178.1c0,4.8,2.4,7,7.6,7H31.7c5.2,0,7.6-2.2,7.6-7v-60l40.5,61.7c3,4.5,4.6,5.3,10.2,5.3h19.2c5.2,0,7.6-2.2,7.6-7V63.6C116.6,58.8,114.2,56.6,109.1,56.6Z"
+        />
+        <circle
+          cx="21.8"
+          cy="21.8"
+          r="21.8"
+        />
+      </svg>
+    </span>
+    <span
+      className="topbar-title-text"
+    >
+      Title
+    </span>
+  </span>
+  <span
+    className="topbar-title-mode"
+  >
+    test
+  </span>
+</a>
+`;

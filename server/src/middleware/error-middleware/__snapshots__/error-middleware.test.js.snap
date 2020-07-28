@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`error middleware tests using express captures ClientError 1`] = `"{\\"error\\":{\\"code\\":409,\\"message\\":\\"client error\\"}}"`;
+
+exports[`error middleware tests using express captures celebrate error 1`] = `"{\\"error\\":{\\"joi\\":{\\"isJoi\\":true,\\"name\\":\\"ValidationError\\",\\"details\\":[{\\"message\\":\\"\\\\\\"key\\\\\\" is required\\",\\"path\\":[\\"key\\"],\\"type\\":\\"any.required\\",\\"context\\":{\\"key\\":\\"key\\",\\"label\\":\\"key\\"}}],\\"_object\\":{}},\\"meta\\":{\\"source\\":\\"query\\"}}}"`;
+
+exports[`error middleware tests using express captures unexpected error 1`] = `"{\\"error\\":{\\"code\\":500,\\"message\\":\\"A server error has occured\\"}}"`;

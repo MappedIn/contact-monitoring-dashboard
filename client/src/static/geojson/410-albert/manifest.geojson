@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.53578391671182,
+                    43.482934118025156
+                ]
+            },
+            "properties": {
+                "folder_struct": [
+                    {
+                        "type": "file",
+                        "name": "building.geojson"
+                    },
+                    {
+                        "name": "level",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "5aba4ccf0042d53209000000.geojson"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "space",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "5aba4ccf0042d53209000000.geojson"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "node",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "5aba4ccf0042d53209000000.geojson"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "obstruction",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "type": "file",
+                                "name": "5aba4ccf0042d53209000000.geojson"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "file",
+                        "name": "category.geojson"
+                    },
+                    {
+                        "type": "file",
+                        "name": "location.geojson"
+                    }
+                ],
+                "time": "2020-04-30T20:22:06.350Z",
+                "version": "1.0.0",
+                "name": "Mappedin Office (410 Albert)"
+            }
+        }
+    ]
+}

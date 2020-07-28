@@ -1,0 +1,20 @@
+.contact-data-card {
+	min-height: 687px;
+
+	min-width: 813px;
+	max-width: 886px;
+
+	flex-grow: 1;
+
+	background-color: #ffffff;
+	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.contact-menu {
+	margin-top: -3px;
+	.ant-menu-item {
+		padding: 0;
+		margin-right: 32px;
+		height: 44px;
+	}
+}

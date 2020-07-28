@@ -1,0 +1,45 @@
+{
+	"version": "1.0.0",
+	"name": "microservice-template-server",
+	"description": "The ultimate bootstrap",
+	"engines": {
+		"node": "12.x",
+		"yarn": "1.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mappedin/microservice-template.git"
+	},
+	"private": true,
+	"license": "UNLICENSED",
+	"scripts": {
+		"start": "node src/index.js",
+		"dev": "nodemon --watch src --ignore '**/*.test.js' src/index.js",
+		"test": "NODE_ENV=test jest",
+		"lint": "eslint .",
+		"ci:test": "yarn lint && yarn test"
+	},
+	"dependencies": {
+		"celebrate": "10.0.1",
+		"compression": "1.7.4",
+		"express": "4.17.1",
+		"helmet": "3.22.0",
+		"jwks-rsa": "^1.8.1",
+		"mongodb": "3.5.6",
+		"morgan": "1.10.0",
+		"node-fetch": "2.6.0",
+		"passport": "0.4.1",
+		"passport-jwt": "4.0.0",
+		"winston": "3.3.3"
+	},
+	"devDependencies": {
+		"mongodb-memory-server": "6.5.2",
+		"nodemon": "1.19.3",
+		"supertest": "4.0.2"
+	},
+	"config": {
+		"mongodbMemoryServer": {
+			"version": "4.0.13"
+		}
+	}
+}

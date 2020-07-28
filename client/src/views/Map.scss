@@ -1,0 +1,26 @@
+.map-contact-title {
+	text-transform: uppercase;
+	font-size: 10px;
+}
+
+.map-contact-other {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.map-contact-row {
+	font-size: 14px;
+}
+
+.map-contact-important {
+	margin-bottom: 15px;
+	padding-bottom: 5px;
+}
+
+.map-contact-block {
+	&:not(:first-child) {
+		border-top: 1px solid #ddd;
+		margin-top: 15px;
+		padding-top: 5px;
+	}
+}

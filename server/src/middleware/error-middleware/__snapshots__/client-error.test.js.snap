@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`client-error has expected types enum 1`] = `
+Object {
+  "BAD_REQUEST": 400,
+  "CONFLICT": 409,
+  "FORBIDDEN": 403,
+  "METHOD_NOT_ALLOWED": 405,
+  "NOT_ACCEPTABLE": 406,
+  "NOT_FOUND": 404,
+  "UNAUTHORIZED": 401,
+  "UNPROCESSABLE_ENTITY": 422,
+}
+`;

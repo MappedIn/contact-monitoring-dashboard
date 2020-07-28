@@ -1,0 +1,15 @@
+{
+	"version": 8,
+	"name": "Blank",
+	"metadata": {
+		"mapbox:autocomposite": false,
+		"mapbox:type": "template",
+		"mapbox:groups": {},
+		"openmaptiles:version": "3.x",
+		"openmaptiles:mapbox:owner": "openmaptiles"
+	},
+	"sources": {},
+	"sprite": "",
+	"glyphs": "https://mi-tiles.mappedin.com/fonts/{fontstack}/{range}.pbf",
+	"layers": []
+}

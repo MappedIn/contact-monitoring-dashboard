@@ -1,0 +1,6 @@
+coverage/
+dist/
+locales/
+node_modules/
+source-maps/
+index.html

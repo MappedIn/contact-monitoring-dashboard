@@ -1,0 +1,101 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.53578391671182, 43.482934118025156]
+			},
+			"properties": {
+				"firstContact": "Apr. 21, 3:57am",
+				"duration": "40 minutes",
+				"distance": "2m",
+				"inContactWith": {
+					"deviceName": "\"Enterprise iPhone 12\"",
+					"deviceId": "9929CE4C-7F32-4D86-8018-32747CEDC055"
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.53579, 43.482934118025156]
+			},
+			"properties": {
+				"firstContact": "Apr. 21, 4:35am",
+				"duration": "40 minutes",
+				"distance": "2m",
+				"inContactWith": {
+					"deviceName": "\"Enterprise iPhone 1\"",
+					"deviceId": "6429CE4C-7C51-4D86-4015-32747CEDC023"
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.53574575447, 43.48292965982]
+			},
+			"properties": {
+				"firstContact": "Apr. 21, 4:35am",
+				"duration": "40 minutes",
+				"distance": "2m",
+				"inContactWith": {
+					"deviceName": "\"MD iPad\"",
+					"deviceId": "7829CE4C-8H34-4D86-4023-32747CEDC047"
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.5357357345, 43.48291358907]
+			},
+			"properties": {
+				"firstContact": "Apr. 21, 5:57am",
+				"duration": "40 minutes",
+				"distance": "2m",
+				"inContactWith": {
+					"deviceName": "\"Manager iPhone\"",
+					"deviceId": "9029CE4C-2B41-4D86-8390-32747CEDC089"
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.53579463, 43.4828828959]
+			},
+			"properties": {
+				"firstContact": "Apr. 21, 6:57am",
+				"duration": "40 minutes",
+				"distance": "2m",
+				"inContactWith": {
+					"deviceName": "\"Enterprise iPhone 8\"",
+					"deviceId": "1229CE4C-3A41-4D86-7456-32747CEDC091"
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.53581391671182, 43.48306]
+			},
+			"properties": {
+				"firstContact": "Apr. 21, 7:57am",
+				"duration": "40 minutes",
+				"distance": "2m",
+				"inContactWith": {
+					"deviceName": "\"Enterprise iPhone 7\"",
+					"deviceId": "4329CE4C-2F11-4D86-1658-32747CEDC023"
+				}
+			}
+		}
+	]
+}

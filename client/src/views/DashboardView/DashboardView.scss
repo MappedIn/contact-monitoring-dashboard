@@ -1,0 +1,11 @@
+.dashboard-view-cards {
+	display: flex;
+	flex-flow: row nowrap;
+	margin-bottom: 95px;
+}
+
+// Pseudo-element to fix overflow problem where margin isn't respected
+.dashboard-view-cards::after {
+	content: '';
+	flex: 0 0 24px;
+}

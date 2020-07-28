@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b89920d4fb0af1085000000",
+                "name": "Consumer Team",
+                "picture": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b8993bde99a3366b9000000",
+                "name": "Integrations Team",
+                "picture": {
+                    "original": "https://d3j72de684fey1.cloudfront.net/uploads/d92bdb56ef0d2ba265544a8971b81a047c367334.jpeg",
+                    "xlarge": "https://d3j72de684fey1.cloudfront.net/resized/d92bdb56ef0d2ba265544a8971b81a047c367334.PjIwNDh4MjA0OA.jpeg",
+                    "medium": "https://d3j72de684fey1.cloudfront.net/resized/d92bdb56ef0d2ba265544a8971b81a047c367334.PjUxMng1MTI.jpeg",
+                    "xxsmall": "https://d3j72de684fey1.cloudfront.net/resized/d92bdb56ef0d2ba265544a8971b81a047c367334.PjY0eDY0.jpeg",
+                    "large": "https://d3j72de684fey1.cloudfront.net/resized/d92bdb56ef0d2ba265544a8971b81a047c367334.PjEwMjR4MTAyNA.jpeg",
+                    "small": "https://d3j72de684fey1.cloudfront.net/resized/d92bdb56ef0d2ba265544a8971b81a047c367334.PjI1NngyNTY.jpeg",
+                    "xsmall": "https://d3j72de684fey1.cloudfront.net/resized/d92bdb56ef0d2ba265544a8971b81a047c367334.PjEyOHgxMjg.jpeg",
+                    "xxlarge": "https://d3j72de684fey1.cloudfront.net/resized/d92bdb56ef0d2ba265544a8971b81a047c367334.PjQwOTZ4NDA5Ng.jpeg"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5b899b032a2686126e000001",
+                "name": "Meeting Rooms",
+                "picture": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5bd0929f2a2686384f000000",
+                "name": "Development",
+                "picture": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5bd092bc2a2686384f000001",
+                "name": "Enterprise Team",
+                "picture": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "id": "5e4232df2a268670eb000426",
+                "name": "Teams",
+                "picture": null
+            }
+        }
+    ]
+}

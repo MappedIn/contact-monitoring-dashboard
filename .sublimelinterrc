@@ -1,0 +1,20 @@
+{
+	"linters": {
+		"eslint": {
+			"excludes": [
+				"**/node_modules",
+				"**/dist",
+				"**/*.html",
+				"**/*.json"
+			]
+		},
+		"stylelint": {
+			"excludes": [
+				"**/node_modules",
+				"**/dist",
+				"**/*.html",
+				"**/*.json"
+			]
+		}
+	}
+}

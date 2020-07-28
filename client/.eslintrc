@@ -1,0 +1,43 @@
+{
+	"extends": [
+		"../.eslintrc",
+		"plugin:react/recommended"
+	],
+	"env": {
+		"node": true,
+		"browser": true,
+		"es6": true,
+		"jest": true
+	},
+	"parser": "babel-eslint",
+	"parserOptions": {
+		"ecmaVersion": 2018,
+		"ecmaFeatures": {
+			"legacyDecorators": true
+		},
+		"sourceType": "module",
+	},
+	"plugins": [
+		"react",
+		"react-hooks"
+	],
+	"settings": {
+		"react": {
+			// Regex for Component Factory to use, default to "createReactClass"
+			"createClass": "createReactClass",
+			// Pragma to use, default to "React"
+			"pragma": "React",
+			// React version, default to the latest React stable release
+			"version": "16.8.0"
+		},
+		// The names of any functions used to wrap the
+		// propTypes object, e.g. `forbidExtraProps`.
+		// If this isn't set, any propTypes wrapped in
+		// a function will be skipped.
+		"propWrapperFunctions": [ "forbidExtraProps" ]
+	},
+	"rules": {
+		"react/prop-types": 0,
+		"react-hooks/rules-of-hooks": "error"
+	}
+}

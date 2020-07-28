@@ -1,0 +1,57 @@
+.contact-search {
+	height: 64px;
+	line-height: 64px;
+	width: 100%;
+
+	.search-input {
+		width: 256px;
+		color: #bfbfbf;
+	}
+}
+
+.contact-table {
+	border: 1px solid #e8e8e8;
+
+	.table-column-header {
+		color: #8c8c8c;
+		font-weight: 600;
+		font-size: 14px;
+		line-height: 36px;
+
+		// lowercase and small-caps to match design
+		text-transform: lowercase;
+		font-variant: small-caps;
+
+		white-space: nowrap;
+	}
+
+	.first-table-column {
+		padding-left: 8px;
+		line-height: 20px;
+
+		.device-id {
+			color: #262626;
+			font-weight: 600;
+			font-size: 12px;
+		}
+	}
+
+	.last-table-column {
+		padding-right: 8px;
+	}
+
+	.table-row {
+		line-height: 16px;
+		color: #595959;
+	}
+
+	.table-values {
+		font-weight: 600;
+		font-size: 14px;
+	}
+
+	.table-units {
+		text-transform: uppercase;
+		font-size: 10px;
+	}
+}

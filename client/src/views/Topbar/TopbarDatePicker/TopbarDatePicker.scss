@@ -1,0 +1,12 @@
+.topbar-date-picker {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	line-height: 22px;
+
+	span {
+		white-space: pre;
+		padding-right: 6px;
+		color: #8c8c8c;
+	}
+}

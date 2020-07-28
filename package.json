@@ -1,0 +1,51 @@
+{
+	"version": "1.0.0",
+	"name": "contact-monitoring-dashboard",
+	"description": "Contact Monitoring Dashboard",
+	"engines": {
+		"node": "12.x",
+		"yarn": "1.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mappedin/contact-monitoring-dashboard.git"
+	},
+	"private": true,
+	"scripts": {
+		"postinstall": "yarn client && yarn server",
+		"client": "yarn --cwd client",
+		"server": "yarn --cwd server",
+		"e2e-tests": "yarn --cwd e2e-tests",
+		"dev": "NODE_ENV=development node dev",
+		"lint": "yarn server lint && yarn client lint",
+		"e2e:test": "yarn e2e-tests docker",
+		"ci:test": "yarn server ci:test && yarn client ci:test",
+		"docker:build": "docker build -t contact-monitoring-dashboard-image .",
+		"docker:dev": "docker run -it --rm --env PORT=80 --env-file ./.env --name contact-monitoring-dashboard -p 8080:80 contact-monitoring-dashboard-image",
+		"docker": "yarn docker:build && yarn docker:dev",
+		"preversion": "yarn --frozen-lockfile && yarn client --frozen-lockfile && yarn ci:test",
+		"prettier:check": "prettier --check '**/*.{js,jsx,ts,tsx,json,css,scss,md}'",
+		"prettier:write": "prettier --write '**/*.{js,jsx,ts,tsx,json,css,scss,md}'"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "lint-staged"
+		}
+	},
+	"lint-staged": {
+		"**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+			"prettier --write",
+			"git add"
+		]
+	},
+	"devDependencies": {
+		"concurrently": "5.1.0",
+		"dotenv-safe": "8.2.0",
+		"eslint": "6.8.0",
+		"eslint-config-prettier": "6.10.0",
+		"husky": "4.2.1",
+		"jest": "25.1.0",
+		"lint-staged": "10.0.4",
+		"prettier": "1.19.1"
+	}
+}

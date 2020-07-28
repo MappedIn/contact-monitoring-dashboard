@@ -1,0 +1,43 @@
+@import 'vars';
+
+@font-face {
+	font-family: 'Avenir Next Cyr W00 Regular';
+	src: url('./static/fonts/avenir-next-cyr/avenir-next-cyr-regular.woff2')
+			format('woff2'),
+		url('./static/fonts/avenir-next-cyr/avenir-next-cyr-regular.woff')
+			format('woff'),
+		url('./static/fonts/avenir-next-cyr/avenir-next-cyr-regular.ttf')
+			format('truetype');
+}
+
+* {
+	font-family: $base-font-family;
+}
+
+*::-webkit-scrollbar {
+	width: 10px;
+	background-color: rgba(255, 255, 255, 0.15);
+}
+
+*::-webkit-scrollbar-thumb {
+	border-radius: 5px;
+	background-color: hsl(0, 0, 50%);
+
+	&:hover {
+		background-color: $blue;
+	}
+}
+
+body,
+html {
+	position: fixed;
+
+	height: 100%;
+	width: 100%;
+
+	margin: 0;
+	padding: 0;
+
+	overflow-x: hidden;
+	overflow-y: auto;
+}

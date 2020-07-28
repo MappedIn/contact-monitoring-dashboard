@@ -1,0 +1,50 @@
+{
+	"presets": [
+		"@babel/preset-react",
+		[
+			"@babel/preset-env",
+			{
+				"useBuiltIns": "entry",
+				"corejs": {
+					"version": 3
+				},
+				"modules": false
+			}
+		]
+	],
+	"plugins": [
+		"@babel/plugin-syntax-dynamic-import",
+		"@babel/plugin-proposal-function-sent",
+		[ "@babel/plugin-proposal-decorators", { "legacy": true } ],
+		[ "@babel/plugin-proposal-class-properties", { "loose" : true } ],
+		[ "@babel/plugin-transform-classes", { "loose": true } ],
+		[ "import", {
+			"libraryName": "antd",
+			"style": true
+		} ]
+	],
+	"env": {
+		"test": {
+			"presets": [
+				"@babel/preset-react",
+				[
+					"@babel/preset-env",
+					{
+						"targets": {
+							"node": "current",
+						},
+					},
+				]
+			],
+			"plugins": [
+				"babel-plugin-dynamic-import-node",
+				"@babel/plugin-transform-modules-commonjs"
+			]
+		},
+		"production": {
+			"plugins": [
+				"transform-react-remove-prop-types"
+			]
+		}
+	}
+}
