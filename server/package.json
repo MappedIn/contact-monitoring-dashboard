@@ -34,7 +34,7 @@
 	},
 	"devDependencies": {
 		"mongodb-memory-server": "6.5.2",
-		"nodemon": "1.19.3",
+		"nodemon": "2.0.4",
 		"supertest": "4.0.2"
 	},
 	"config": {
