@@ -51,7 +51,7 @@
 		"jszip": "^3.5.0",
 		"less": "3.10.3",
 		"less-loader": "5.0.0",
-		"lodash": "4.17.15",
+		"lodash": "4.17.21",
 		"mapbox-gl": "^1.10.0",
 		"nanoid": "2.1.10",
 		"node-sass": "4.13.1",
